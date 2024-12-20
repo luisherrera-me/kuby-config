@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    username: beta
-    url: jdbc:postgresql://localhost:5432/userdb
-    hikari:
-      connection-timeout: '20000'
-    password: beta
-  
