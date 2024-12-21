@@ -1,8 +1,7 @@
 spring:
   datasource:
-    username: test
+    username: beta
     url: jdbc:postgresql://localhost:5432/userdb
     hikari:
       connection-timeout: '20000'
-    password: test
-  
+    password: beta
